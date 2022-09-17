@@ -19,4 +19,4 @@ Deploy ไฟล์ที่ build โดยใช้บริการ Static w
 
 ดูวิธีการใช้ **Surge** ใน MS TEAM Channel General
 
-http://tan-authority.surge.shlab-09-praschaya.surge.sh/lab-07
+http://tan-authority.surge.shlab-09-praschaya.surge.sh/
